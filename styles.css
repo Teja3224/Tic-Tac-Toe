@@ -8,6 +8,10 @@ body {
     height: 100vh;
 }
 
+h1{
+    text-align:centre;
+    color:aqua;
+}
 
 #gameboard{
     width : 300px;
